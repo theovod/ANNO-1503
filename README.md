@@ -3,7 +3,7 @@
 
 Install [ANNO-1503 Aufbruch in eine neue Welt](https://de.wikipedia.org/wiki/Anno_1503) (German Edition) [Anno 1503: The New World](https://de.wikipedia.org/wiki/Anno_1503) (International Edition) on a linux environment, also works with: ANNO 1503 Königs Edition (German Edition)
 
-# WINE HQ
+# WINE HQ (https://www.winehq.org/)
 - Insert the CD or Virtual Image of ANNO 1503
 - Run the setup.exe with WINE HQ
 - follow the instructions in the installation
