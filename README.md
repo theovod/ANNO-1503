@@ -10,4 +10,5 @@ Install ANNO-1503 Königs Edition (German Edition) Anno 1503: The New World (Int
 
 # Patches and Updates
 - Anno 1503 - Widescreen Patch [source (theovod/ANNO-1503-Widescreen)](https://github.com/theovod/ANNO-1503-Widescreen)
+- Anno 1503 - Save Game Patch [source (theovod/ANNO-1503-SG)](https://github.com/theovod/ANNO-1503-SG)
 
