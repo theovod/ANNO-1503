@@ -12,6 +12,7 @@ Install [ANNO-1503 Aufbruch in eine neue Welt](https://de.wikipedia.org/wiki/Ann
 - Run the setup.exe with WINE HQ
 - follow the instructions in the installation
 - run the game / have fun....
+- [EXTRA]: Special WINE HQ Config for ANNO-1503: [source (theovod/ANNO-1503-WINE-CONF)](https://github.com/theovod/ANNO-1503-WINE-CONF)
 - [EXTRA]: Install the ANNO-1503 Widescreen Patch: [source (theovod/ANNO-1503-Widescreen)](https://github.com/theovod/ANNO-1503-Widescreen)
 # PlayOnLinux
 - Install PlayOnLinux https://www.playonlinux.com
@@ -19,6 +20,7 @@ Install [ANNO-1503 Aufbruch in eine neue Welt](https://de.wikipedia.org/wiki/Ann
 - Inser your CD or Virtual Image of ANNO 1503
 - The ANNO 1503 Installer will be open (follow the instructions in the installation)
 - run the game / have fun....
+- [EXTRA]: Special WINE HQ Config for ANNO-1503: [source (theovod/ANNO-1503-WINE-CONF)](https://github.com/theovod/ANNO-1503-WINE-CONF)
 - [EXTRA]: Install the ANNO-1503 Widescreen Patch: [source (theovod/ANNO-1503-Widescreen)](https://github.com/theovod/ANNO-1503-Widescreen)
 # Patches and Updates
 - [2.0] Anno 1503 - Widescreen Patch [source (theovod/ANNO-1503-Widescreen)](https://github.com/theovod/ANNO-1503-Widescreen)
