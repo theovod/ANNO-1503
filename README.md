@@ -32,6 +32,9 @@ Install [ANNO-1503 Aufbruch in eine neue Welt](https://de.wikipedia.org/wiki/Ann
 - The game can be crash at the first start (ANNO-1503-Widescreen)
 - With a higher resolution black border in the game UI (ANNO-1503-Widescreen)
 - Save game button does not work (or the game crashes when saving the game) (Install the: [Save Game Patch](https://github.com/theovod/ANNO-1503-SG))
+# Help
+Feel free to Translate the "Texte.dat" from: [source (theovod/ANNO-1503-Widescreen / German Edition Only)](https://github.com/theovod/ANNO-1503-Widescreen) to English, France, Russian
+
 # Screenshots
 <img src="https://raw.githubusercontent.com/theovod/ANNO-1503/main/1.png" alt=""/>
 <img src="https://raw.githubusercontent.com/theovod/ANNO-1503/main/2.png" alt=""/>
