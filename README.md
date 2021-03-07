@@ -1,8 +1,8 @@
 # ANNO-1503 
 <img src="https://raw.githubusercontent.com/theovod/ANNO-1503/main/ANNO_1503_CV.png" alt="" width="200"/>
 
-Install [ANNO-1503 Aufbruch in eine neue Welt](https://de.wikipedia.org/wiki/Anno_1503) [Anno 1503: The New World](https://en.wikipedia.org/wiki/Anno_1503) (International Edition) on a linux environment.
-also works with: ANNO 1503 Königs Edition (German Edition)
+Install [ANNO-1503 Aufbruch in eine neue Welt] (German Edition) (https://de.wikipedia.org/wiki/Anno_1503) [Anno 1503: The New World](https://en.wikipedia.org/wiki/Anno_1503) (International Edition) on a linux environment.
+also works with: ANNO 1503 Königs Edition
 # About ANNO 1503
 https://de.wikipedia.org/wiki/Anno_1503
 https://en.wikipedia.org/wiki/Anno_1503
