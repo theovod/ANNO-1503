@@ -9,5 +9,5 @@ Install ANNO-1503 Königs Edition (German Edition) Anno 1503: The New World (Int
 # PlayOnLinux
 
 # Patches and Updates
-- Anno 1503 - Widescreen Patch [repository](https://github.com/theovod/ANNO-1503-Widescreen)
+- Anno 1503 - Widescreen Patch [source (theovod)](https://github.com/theovod/ANNO-1503-Widescreen)
 
