@@ -5,7 +5,10 @@ Install ANNO-1503 Königs Edition (German Edition) Anno 1503: The New World (Int
 
 
 # WINE HQ
-
+-[1]
+-[2]
+-[3]
+-[4]
 # PlayOnLinux
 
 # Patches and Updates
