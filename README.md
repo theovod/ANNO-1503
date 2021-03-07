@@ -24,7 +24,6 @@ Install ANNO-1503 Königs Edition (German Edition) Anno 1503: The New World (Int
 # Known Bugs
 - The game can be crash at the first start (ANNO-1503-Widescreen)
 - With a higher resolution black border in the game UI (ANNO-1503-Widescreen)
-- Save game button does not work (or the game crashes when saving the game) 
-(Install the: Save Game Patch [source (theovod/ANNO-1503-SG)](https://github.com/theovod/ANNO-1503-SG) )
+- Save game button does not work (or the game crashes when saving the game) (Install the: [Save Game Patch)](https://github.com/theovod/ANNO-1503-SG) )
 -
 
