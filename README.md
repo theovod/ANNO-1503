@@ -1,8 +1,11 @@
 # ANNO-1503 
 <img src="https://raw.githubusercontent.com/theovod/ANNO-1503/main/ANNO_1503_CV.png" alt="" width="200"/>
 
-Install ANNO-1503 Königs Edition (German Edition) Anno 1503: The New World (International Edition) on a linux environment.
-
+Install ANNO-1503 Aufbruch in eine neue Welt (German Edition) Anno 1503: The New World (International Edition) on a linux environment.
+Works to for the: ANNO 1503 Königs Edition (German Edition)
+# About ANNO 1503
+https://de.wikipedia.org/wiki/Anno_1503
+https://en.wikipedia.org/wiki/Anno_1503
 
 # WINE HQ
 - Insert the CD or Virtual Image of ANNO 1503
@@ -25,5 +28,4 @@ Install ANNO-1503 Königs Edition (German Edition) Anno 1503: The New World (Int
 - The game can be crash at the first start (ANNO-1503-Widescreen)
 - With a higher resolution black border in the game UI (ANNO-1503-Widescreen)
 - Save game button does not work (or the game crashes when saving the game) (Install the: [Save Game Patch](https://github.com/theovod/ANNO-1503-SG))
--
 
