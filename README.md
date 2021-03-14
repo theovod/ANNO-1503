@@ -26,7 +26,7 @@ Install [ANNO-1503 Aufbruch in eine neue Welt](https://de.wikipedia.org/wiki/Ann
 - [2.0] Anno 1503 - Widescreen Patch [source (theovod/ANNO-1503-Widescreen / German Edition Only)](https://github.com/theovod/ANNO-1503-Widescreen)
 - [2.1] Anno 1503 - Save Game Patch [source (theovod/ANNO-1503-SG)](https://github.com/theovod/ANNO-1503-SG)
 - [1.8] Anno 1503 - Map Editor [source (theovod/ANNO-1503-MP)](https://github.com/theovod/ANNO-1503-MP)
-- [1.0] Anno 1503 - HD Patch [source (theovod/ANNO-1503-MP)](https://github.com/theovod/ANNO-1503-HD)
+- [1.0] Anno 1503 - HD Patch [source (theovod/ANNO-1503-HD)](https://github.com/theovod/ANNO-1503-HD)
 
 # Known Bugs
 - The game can be crash at the first start (ANNO-1503-Widescreen)
